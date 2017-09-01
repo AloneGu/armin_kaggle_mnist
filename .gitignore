@@ -1,0 +1,4 @@
+input/
+notebooks/.ipynb_checkpoints/
+notebooks/*.h5
+.idea/
